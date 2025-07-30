@@ -1,4 +1,4 @@
-# Glassmorphic Canvas – Modern SaaS Landing Page
+# ADmyBrand – Modern SaaS Landing Page
 
 A visually stunning, glassmorphic SaaS landing page built with React, Vite, Tailwind CSS, shadcn/ui, and Framer Motion. Includes advanced UI components, beautiful gradients, and a modern dark/light design system.
 
